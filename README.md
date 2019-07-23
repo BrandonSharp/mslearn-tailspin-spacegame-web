@@ -1,3 +1,4 @@
+[![Build Status](https://binarysymphony.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/BrandonSharp.mslearn-tailspin-spacegame-web?branchName=master)](https://binarysymphony.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=12&branchName=master)
 
 # Contributing
 
